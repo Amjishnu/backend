@@ -1,0 +1,8 @@
+x=min(37,66,89)
+y=max(37,66,89)
+z=abs(-2.75)
+a=pow(2,3)
+print("min value:",x)
+print("max value:",y)
+print("positive value",z)
+print("power:",a)
